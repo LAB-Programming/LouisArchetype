@@ -14,6 +14,4 @@ This is a Maven archetype that contains files and configurations that I would ot
 ###Goals:
 ####Completed:
 * Almost everything
-
-####Long Term Goals:
-* Add main classes with filtered names (if possible)
+* Add main and test class with filtered names
