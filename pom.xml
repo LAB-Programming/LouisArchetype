@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.clonecomputers.lab</groupId>
   <artifactId>LouisArchetype</artifactId>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
   <name>Louis Maven Archetype</name>
   <description>A maven archetype that I made to make my project creation easier.</description>
  
