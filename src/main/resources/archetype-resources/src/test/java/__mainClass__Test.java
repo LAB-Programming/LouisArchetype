@@ -8,7 +8,7 @@ public class ${mainClass}Test {
 
 	@Test
 	public void test() {
-		
+		// TODO test something
 	}
 
 }
